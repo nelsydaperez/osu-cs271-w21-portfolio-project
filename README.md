@@ -1,1 +1,2 @@
-# osu-cs271-w21-portfolio-project
+# Low-level I/O procedures using Signed Integers on Assembly (Oregon State University CS 271 Winter 2021 Computer Architecture and Assembly Language Portfolio Project)
+Low-level I/O procedures using Assembly language that are used to receive ten signed decimal integers. The program returns the 10 valid entries, their sum and their calculated average. This project was created for Oregon State University's CS 271 Winter 2021 Computer Architecture and Assembly Language course.
